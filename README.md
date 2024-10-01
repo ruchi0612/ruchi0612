@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Cybersecurity
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love chocolates 
-- Password Logic Flowchart
+- Password Logic Flowchart 
 - The file `PasswordLogic.pdf` contains a flowchart visualizing the logic to check if a user has attempted a password three times, resulting in the account being locked

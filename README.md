@@ -7,4 +7,4 @@
 - The file `PasswordLogic.pdf` contains a flowchart visualizing the logic to check if a user has attempted a password three times, resulting in the account being locked
 - Python.png
 - Description: The file name `Python.png`. This program calculates the sum of two variables, x and y, and prints the result.
-- ![Screenshot of the program]([Python.png](https://github.com/ruchi0612/Python.png))
+- [https://github.com/ruchi0612/Python.png]

@@ -9,3 +9,7 @@
 - https://github.com/ruchi0612/Python.png
 - Visualizing an Object Oriented Programming class for FLOWER
 - https://github.com/ruchi0612/FlowerClass/blob/main/README.md
+- OOP (Object Oriented Programming) in Python
+- PythonOOP.png: A screenshot of the code and output demonstrating the implementation of OOP with the Flower class.
+- Flower.py: The Python code implementing the Flower class with methods to grow and bloom, including the creation of three flower objects.
+- https://github.com/ruchi0612/FlowerClassOOP

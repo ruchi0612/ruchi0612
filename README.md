@@ -13,5 +13,10 @@
 - PythonOOP.png: A screenshot of the code and output demonstrating the implementation of OOP with the Flower class.
 - Flower.py: The Python code implementing the Flower class with methods to grow and bloom, including the creation of three flower objects.
 - https://github.com/ruchi0612/FlowerClassOOP
-- 
+- This network diagram illustrates a simple star topology. I chose this topology due to its ease of use and troubleshooting capabilities. This design allows for efficient communication between devices while simplifying the network management process.
+- Components Included:
+- Computer: Desktop 1 a computer for general use and a desktop 2 for mobile connectivity.
+- Laptop: Laptop 1 for general use and laptop 2 for mobile connectivity.
+- Printer: A network printer accessible to both computers and laptops.
+- Router: Central hub connecting all devices, providing internet access.
 - https://github.com/ruchi0612/NetworkDesign.png

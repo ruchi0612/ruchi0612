@@ -20,8 +20,7 @@
 - Printer: A network printer accessible to both computers and laptops.
 - Router: Central hub connecting all devices, providing internet access.
 - https://github.com/ruchi0612/NetworkDesign.png
-- SQLQuery.png - This SQL query retrieves the names and prices of products that cost less than $100, sorted by price in ascending order.
-- The query is as follows:
+- SQLQuery.png - This SQL query retrieves the names and prices of products that cost less than $100, sorted by price in ascending order. The query is as follows:
 - SELECT * FROM Products
 - WHERE PRICE < 10
 - ORDER BY PRICE ASC;

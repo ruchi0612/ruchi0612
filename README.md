@@ -26,3 +26,6 @@
 - ORDER BY PRICE ASC;
 - The output shows a list of products with their prices below $100, ordered from least expensive to most expensive.
 - https://github.com/ruchi0612/SQLQuery
+- TJ Aquatic Plants Web Initiative - Description : This project is a simple webpage showcasing TJ Aquatic Plants, a business specializing in aquatic plants for aquariums. The page introduces the company and the benefits of using aquatic plants in water environments, such as improving water quality and creating a lush, green aquarium even in winter. The webpage is structured with basic HTML tags, including headings, a paragraph of text, a hyperlink, and an image.
+- https://github.com/ruchi0612/TJAquaticPlants-WebInitiative
+
